@@ -1,0 +1,18 @@
+Neal Trischitta
+Programming Languages - CS 496
+Final Project 
+
+Status
+Program is working correctly.
+
+Test:
+To test my program, I have provided a testcase directory that includes a testcase scheme file.
+
+Notice that Pretty-Print outputs a string while parse take in a string.
+
+Notice that in max-index given a program with and empty list of instructions returns 0
+
+Notice that label with no numbers returns 1.
+
+Notice Expand V <- V' Function name is expandV<-V
+
